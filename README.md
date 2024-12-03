@@ -89,8 +89,3 @@ This open lab will introduce participants to the fundamentals of new AI developm
 
 
 ---
-
-### **Workshop Highlights:**
-- Hands-on coding exercises with step-by-step guidance.  
-- Access to Jupyter Notebooks, datasets, and preconfigured environments.  
-- Real-world cases to reinforce concepts.  
