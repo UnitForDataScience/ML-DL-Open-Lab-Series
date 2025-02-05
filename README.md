@@ -15,21 +15,7 @@ This open lab will cover an overview of fundamental concepts, applications, and 
 - No coding 
 
 ---
-
-## **Open Lab 2: Supervised Learning - Regression Models**
-### Description:  
-This open lab will cover regression techniques for predicting continuous numerical outcomes. We will also go through model evaluation.  
-
-### Key Topics:  
-- Linear Regression and Polynomial Regression  
-- Regularization techniques (Lasso, Ridge)
-- Decision Trees
-- Random Forest 
-- Evaluation metrics: Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R²  
-
----
-
-## **Open Lab 3: Supervised Learning - Classification Models**
+## **Open Lab 2: Supervised Learning - Classification Models**
 ### Description:  
 This open lab will explore classification models for predicting categorical outcomes. We will also review metrics to assess classifiers and improve the accuracy of classification algorithms.  
 
@@ -41,7 +27,18 @@ This open lab will explore classification models for predicting categorical outc
 - KNN
 - More Other classifiers 
 - Evaluation metrics: Confusion Matrix, Accuracy, Precision, Recall, F1-Score etc   
+---
 
+## **Open Lab 3: Supervised Learning - Regression Models**
+### Description:  
+This open lab will cover regression techniques for predicting continuous numerical outcomes. We will also go through model evaluation.  
+
+### Key Topics:  
+- Linear Regression and Polynomial Regression  
+- Regularization techniques (Lasso, Ridge)
+- Decision Trees
+- Random Forest 
+- Evaluation metrics: Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R²  
 ---
 
 ## **Open Lab 4: Unsupervised Learning and Dimensionality Reduction**
